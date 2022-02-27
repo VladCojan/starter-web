@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    <name>Vlad -- <role>damn -- <twitter> non@vad
 
 # THANKS
 
